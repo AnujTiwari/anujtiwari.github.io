@@ -13,7 +13,7 @@ inference techniques to remote sensing data. I am Research Associate in the [Dis
 
 I earned my Ph.D in Semantically enriched 3D City Modeling from the
 [Indian Institute *of* Technology Roorkee, India]([https://iitr.ac.in/]), 
-Master’s degree in Spatial Information Technology from [DAVV University, Indore, India](https://www.dauniv.ac.in/) 
-and my Bachelor’s degree in Computer Science and Engineering from [RGPV University, Bhopal, India](https://www.rgpv.ac.in/).
+Master’s degree in Spatial Information Technology from DAVV University, Indore, India 
+and my Bachelor’s degree in Computer Science and Engineering from RGPV University, Bhopal, India.
 My current research applies a combination of geospatial and computational approaches to quantitatively understand decision-making in wastewater sampling and data interpretation with a focus on questions in Wastewater Epidemiology, Pandemic Vulnerability Modeling, and Health-GIS. My research interests include Natural Disasters (Forest Fire, Sinkhole, Avalanche, Urban Heating etc) and Health Hazards (chemical, physical, and biological) Risk and Vulnerability Assessment, Urban Remote Sensing, and Computational Medical Research.
 
